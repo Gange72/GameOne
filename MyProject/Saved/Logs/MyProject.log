@@ -1355,3 +1355,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.16-17.18.27:359][ 16]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, EditorSkySphere
 [2025.06.16-17.18.29:124][114]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, SM_SkySphere
 [2025.06.16-17.18.29:371][114]LogPSOHitching: Encountered 250 PSO creation hitches so far (51 graphics, 199 compute). 0 of them were precached.
+[2025.06.16-17.19.53:342][437]LogDerivedDataCache: C:/Users/seang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
